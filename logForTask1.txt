@@ -1,0 +1,16 @@
+git clone https://github.com/xiaotinglian/Repo1.git
+
+cd Repo1
+
+help
+
+ls
+
+git add HelloWorld.java
+
+git commit
+
+git remote add Repo1 https://github.com/xiaotinglian/Repo1.git
+
+nano HelloWorld
+
