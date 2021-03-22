@@ -10,7 +10,12 @@ git add HelloWorld.java
 
 git commit
 
-git remote add Repo1 https://github.com/xiaotinglian/Repo1.git
+git commit -m "commot"
 
 nano HelloWorld
 
+git remote add Repo1 https://github.com/xiaotinglian/Repo1.git
+
+git branch -M main
+
+git push -u origin main
